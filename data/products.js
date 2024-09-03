@@ -696,5 +696,5 @@ export const products = [
     ]
   }
 ].map((productDetails) => {
-  return new Product(productDetails);
+   return new Product(productDetails);
 });
